@@ -7,7 +7,7 @@
                 "bore-server.exe",
                 "bore.exe"
             ],
-            "hash": "7635eff7c148105cd4ad2af728fb03fb5c8103fe29039bbeca30e126aea5ee2b"
+            "hash": "9f7c7e53241bdd7699bf3d5005222843a58aec471df2e52e46cc257f0447b359"
         },
         "64bit": {
             "url": "https://github.com/aditya-ds-1806/bore/releases/download/v0.1.7/bore_0.1.7_windows_amd64.tar.gz",
@@ -15,7 +15,7 @@
                 "bore-server.exe",
                 "bore.exe"
             ],
-            "hash": "e4e693f58b784c6844fa8ee45829452394f04bc56de87a6e3537eef2c3a2cbcc"
+            "hash": "9af5bd6d2f3a75262334bdf4c0cb3561a0c9e1e92e93f6bad0d80a4744ef97c7"
         }
     },
     "homepage": "https://trybore.com/",
