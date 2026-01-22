@@ -1,21 +1,21 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aditya-ds-1806/bore/releases/download/v0.1.6/bore_0.1.6_windows_386.tar.gz",
+            "url": "https://github.com/aditya-ds-1806/bore/releases/download/v0.1.7/bore_0.1.7_windows_386.tar.gz",
             "bin": [
                 "bore-server.exe",
                 "bore.exe"
             ],
-            "hash": "25a074ec3de25ae7213aa864df36b2052ca964c8be4b294d6b87ebaf1021b0cb"
+            "hash": "67c2a863e106138c62c30e3f73b35c8d30578804c4ea12502fa104720b944bf9"
         },
         "64bit": {
-            "url": "https://github.com/aditya-ds-1806/bore/releases/download/v0.1.6/bore_0.1.6_windows_amd64.tar.gz",
+            "url": "https://github.com/aditya-ds-1806/bore/releases/download/v0.1.7/bore_0.1.7_windows_amd64.tar.gz",
             "bin": [
                 "bore-server.exe",
                 "bore.exe"
             ],
-            "hash": "74e2ea23bb855fc5b9ceb8cd8304db2c988681979c1d2f5c83fa1c93bfee5ccc"
+            "hash": "f992e22a5027c52f6860a97897ab95a70557e2d2dd61de0e848c623f42a66c22"
         }
     },
     "homepage": "https://trybore.com/",
